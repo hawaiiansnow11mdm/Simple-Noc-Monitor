@@ -24,11 +24,11 @@ Uno script semplice in Bash pensato per attività di monitoraggio base da parte 
 
 
 simple-noc-monitor/
-├── monitor.sh          # Script principale
-├── hosts.txt           # Lista di host/IP da pingare
-├── services.txt        # Lista di servizi da monitorare
-├── logs/               # Cartella dove vengono salvati i log
-└── README.md           # Descrizione del progetto
+monitor.sh          # Script principale
+hosts.txt           # Lista di host/IP da pingare
+services.txt        # Lista di servizi da monitorare
+logs/               # Cartella dove vengono salvati i log
+README.md           # Descrizione del progetto
 
 
 
